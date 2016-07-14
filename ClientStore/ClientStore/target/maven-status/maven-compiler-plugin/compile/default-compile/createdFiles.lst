@@ -1,0 +1,17 @@
+com\scalefocus\edu\api\ws\ClientStoreAPIWSImpl.class
+com\scalefocus\edu\db\dao\AddressRepository.class
+com\scalefocus\edu\db\dao\ClientRepository.class
+com\scalefocus\edu\api\model\ClientAPI.class
+com\scalefocus\edu\config\DBConfig.class
+com\scalefocus\edu\api\rs\ClientStoreAPIRSImpl.class
+com\scalefocus\edu\service\ClientStoreService.class
+com\scalefocus\service\map\ClientStoreMappingBuilder.class
+com\scalefocus\edu\config\DozerConfig.class
+com\scalefocus\edu\api\ClientStoreAPI.class
+com\scalefocus\edu\api\model\AddressAPI.class
+com\scalefocus\edu\config\AppConfig.class
+com\scalefocus\edu\db\model\AddressDB.class
+com\scalefocus\edu\config\CXFConfig.class
+com\scalefocus\edu\api\PathStrings.class
+com\scalefocus\edu\config\AppInitializer.class
+com\scalefocus\edu\db\model\ClientDB.class
