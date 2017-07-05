@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 I don't know
+=======
+Random text: aasddddddddddaasdasdasdasdads
+>>>>>>> eceebd42d55adb6f8eaad426ec9e8bc98bb4cf8c
